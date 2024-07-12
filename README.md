@@ -2,6 +2,18 @@
 
 Welcome to the E-Commerce Website project! This web application provides a platform for users to browse, purchase products, and manage their accounts. Built using Node.js, Express, and Mongoose, this project ensures a seamless shopping experience with essential e-commerce functionalities.
 
+# Login/Register Page
+
+![2024-07-12 (5)](https://github.com/user-attachments/assets/2cf210e3-c190-43dc-a770-b0c16aa88a00)
+
+# Products Page
+
+![2024-07-12 (4)](https://github.com/user-attachments/assets/6ef38de7-9d55-4f25-a73c-206457257c64)
+
+# Cart Page
+
+![2024-07-12 (3)](https://github.com/user-attachments/assets/f6b3cd1c-ad60-46a2-9b1e-2c4eebaff87c)
+
 ## Features
 
 - **User Registration**: New users can create an account to access the website's features.
